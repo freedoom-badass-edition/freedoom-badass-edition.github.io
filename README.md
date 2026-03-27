@@ -1,2 +1,2 @@
-# freedoom bad*ss edition's epic website
-i shit the bed
+# freedoom bad*ss edition github io
+the repo for the official freedoom bad*ss edition site
