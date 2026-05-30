@@ -26,10 +26,10 @@ div.gallery-item {
   width: 240;
   height: 135;
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #5e1c1c;
 }
 div.gallery-item:hover {
-  border: 1px solid #777;
+  border: 1px solid #ff7373;
 }
 div.gallery-item img {
   width: 100%;

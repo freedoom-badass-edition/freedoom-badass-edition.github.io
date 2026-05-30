@@ -108,6 +108,14 @@
                 var hover = new Audio("dspistol.ogg")
                 hover.play();
             });
+            $("div a").on("mouseenter", function (e) {
+                var hover = new Audio("dspstop.ogg")
+                hover.play();
+            });
+            $("div a").on("mousedown", function (e) {
+                var hover = new Audio("dspistol.ogg")
+                hover.play();
+            });
         </script>
     </body>
 </html>
